@@ -1,5 +1,5 @@
 # Skynet
-This is my default Skynet filter list running on Asus-Merlin firmware for Asus routers.
+This is my Skynet filter list running on Asus-Merlin firmware for Asus routers.
 
 The goal of this tool is to enhance the firmware's built in functionality such as the SPI Firewall, Brute Force Detection and AiProtection while adding easy-to-use tools for users to implement their customized firewall rules. Skynet has a range of feature from banning single IPs, domains, entire countries or pulling predefined malware lists from reputable providers. It can also be used to secure IOT devices and prevent them from sending data back to their manufacturers.
 
