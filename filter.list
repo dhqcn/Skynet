@@ -12,6 +12,7 @@ https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
 # https://iplists.firehol.org/files/bitcoin_nodes.ipset #(Bitcoin peer-to-peer reachable nodes)
 # https://cdn.jsdelivr.net/gh/dhqcn/Skynet@main/filter.list (use this link as Skynet seems to encounter error of consolidating blacklist
 # from Github link)
