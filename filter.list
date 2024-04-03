@@ -4,6 +4,7 @@ https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/cleantalk.ipset
 https://iplists.firehol.org/files/firehol_level1.netset
 # https://iplists.firehol.org/files/blocklist_de_bruteforce.ipset
+https://iplists.firehol.org/files/firehol_level2.netset
 https://iplists.firehol.org/files/firehol_level3.netset
 https://iplists.firehol.org/files/et_tor.ipset
 https://iplists.firehol.org/files/et_compromised.ipset
