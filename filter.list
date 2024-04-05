@@ -11,7 +11,7 @@ https://iplists.firehol.org/files/et_compromised.ipset
 https://iplists.firehol.org/files/greensnow.ipset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
-https://sigs.interserver.net/ip.txt
+https://sigs.interserver.net/iprbl.txt
 https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://www.talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
