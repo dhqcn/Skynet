@@ -8,6 +8,7 @@ https://iplists.firehol.org/files/et_spamhaus.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/et_dshield.netset
 https://iplists.firehol.org/files/et_tor.ipset
+https://iplists.firehol.org/files/iblocklist_cidr_report_bogons.netset
 https://blocklist.greensnow.co/greensnow.txt
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
 https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
