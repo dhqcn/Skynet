@@ -1,2 +1,4 @@
 08-04-2024 9:30AM - Adding https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
+08-04-2024 8:05PM - Replacing https://iplists.firehol.org/files/bds_atif.ipset with https://www.binarydefense.com/banlist.txt in case Firehol encouters issue in updating their local copy.
 08-04-2024 8:05PM - Replacing https://iplists.firehol.org/files/blocklist_de.ipset with https://lists.blocklist.de/lists/all.txt in case Firehol encounter issue in updating their local copy.
+08-04-2024 8:05PM - Adding https://github.com/stamparm/ipsum/blob/master/levels/5.txt
