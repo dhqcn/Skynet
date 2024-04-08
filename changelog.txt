@@ -1,2 +1,2 @@
 08-04-2024 9:30AM - Adding https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
-08-04-2024 9:30AM - Replacing https://feodotracker.abuse.ch/downloads/ipblocklist.txt with https://feodotracker.abuse.ch/downloads/ipblocklist_recommended.txt to avoid false positives.
+08-04-2024 8:05PM - Replacing https://iplists.firehol.org/files/blocklist_de.ipset with https://lists.blocklist.de/lists/all.txt in case Firehol encounter issue in updating their local copy.
