@@ -4,3 +4,6 @@
 08-04-2024 8:05PM - Adding https://github.com/stamparm/ipsum/blob/master/levels/5.txt
 
 09-04-2024 9:05AM - Adding https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt for future IPv6 use.
+
+10-04-2024 9:45PM - Adding https://myip.ms/files/blacklist/general/latest_blacklist.txt
+10-04-2024 9:45PM - Adding https://myip.ms/files/bots/live_webcrawlers.txt
