@@ -22,6 +22,6 @@ https://github.com/stamparm/ipsum/blob/master/levels/5.txt
 https://myip.ms/files/bots/live_webcrawlers.txt # Known Web Bots & Spiders in Myip.ms Database
 https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt # Fullbogons list - more than 99% included in iblocklist_cidr_report_bogons
 # https://iplists.firehol.org/files/bitcoin_nodes.ipset  # Bitcoin peer-to-peer reachable nodes
-# https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt  # Fullbogons list for IPv6
+# https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt (Fullbogons list for IPv6)
 # https://cdn.jsdelivr.net/gh/dhqcn/Skynet@main/filter.list (use this link as Skynet seems to encounter error of consolidating blacklist
 # from Github link)
