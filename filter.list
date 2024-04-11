@@ -18,9 +18,9 @@ https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://www.talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
-https://github.com/stamparm/ipsum/blob/master/levels/5.txt
-https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
-# https://myip.ms/files/bots/live_webcrawlers.txt (excellent but too much IPs for Skynet on Asus routers, maybe best used on OPNSense)
+https://github.com/stamparm/ipsum/blob/master/levels/6.txt
+# https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+https://myip.ms/files/bots/live_webcrawlers.txt (excellent but too much IPs for Skynet on Asus routers, maybe best used on OPNSense)
 # https://iplists.firehol.org/files/bitcoin_nodes.ipset #(Bitcoin peer to peer reachable nodes)
 # https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt (Fullbogons list for IPv6)
 # https://raw.githubusercontent.com/dhqcn/Skynet/main/filter.list (use this link as Skynet seems to encounter error of consolidating blacklist)
