@@ -7,7 +7,7 @@ https://lists.blocklist.de/lists/all.txt
 https://iplists.firehol.org/files/et_spamhaus.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 https://iplists.firehol.org/files/et_dshield.netset
-https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
+# https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt
 https://iplists.firehol.org/files/et_tor.ipset
 https://iplists.firehol.org/files/iblocklist_cidr_report_bogons.netset
 https://blocklist.greensnow.co/greensnow.txt
@@ -19,8 +19,8 @@ https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
 https://www.talosintelligence.com/documents/ip-blacklist
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
 https://github.com/stamparm/ipsum/blob/master/levels/5.txt
-https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
-# https://myip.ms/files/bots/live_webcrawlers.txt (excellent but too much IPs for Skynet on Asus routers, maybe best used on OPNSense)
+# https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+https://myip.ms/files/bots/live_webcrawlers.txt (excellent but too much IPs for Skynet on Asus routers, maybe best used on OPNSense)
 # https://iplists.firehol.org/files/bitcoin_nodes.ipset #(Bitcoin peer to peer reachable nodes)
 # https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt (Fullbogons list for IPv6)
 # https://cdn.jsdelivr.net/gh/dhqcn/Skynet@main/filter.list (use this link as Skynet seems to encounter error of consolidating blacklist
