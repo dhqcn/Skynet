@@ -12,3 +12,5 @@
 12-04-2024 10:15PM - Adding https://iplists.firehol.org/files/firehol_level2.netset
 
 24-04-2024 4:18PM - Adding https://www.spamhaus.org/drop/drop.txt
+
+26-04-2024 10:53PM - Changing https://www.spamhaus.org/drop/drop.txt to https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
