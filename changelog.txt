@@ -16,3 +16,5 @@
 26-04-2024 10:53PM - Changing https://www.spamhaus.org/drop/drop.txt to https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt
 
 27-04-2024 9:50PM - Removing https://www.spamhaus.org/drop/edrop.txt as it has been merge into https://www.spamhaus.org/drop/drop.txt
+
+29-04-2024 1:19AM - Adding https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_AIP-Alpha7-latest.txt
