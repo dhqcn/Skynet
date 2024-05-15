@@ -22,3 +22,5 @@
 29-04-2024 1:36AM - Replacing https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_drop.txt with https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_drop.txt
 
 29-04-2024 1:36AM - Replacing https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt with https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_dshield.txt
+
+15-04-2024 8:29PM - Adding https://myip.ms/files/blacklist/csf/latest_blacklist.txt
