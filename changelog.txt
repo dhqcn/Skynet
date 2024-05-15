@@ -24,3 +24,4 @@
 29-04-2024 1:36AM - Replacing https://raw.githubusercontent.com/UoFruitE/ProcessedLists/main/processed_dshield.txt with https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_dshield.txt
 
 15-04-2024 8:29PM - Adding https://myip.ms/files/blacklist/csf/latest_blacklist.txt
+16-04-2024 0:15AM - Adding https://raw.githubusercontent.com/dhqcn/Skynet/main/Talos_IOC_IPs_2024.txt
