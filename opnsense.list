@@ -31,6 +31,6 @@ https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
 # https://raw.githubusercontent.com/jumpsmm7/banIP-IP-blocklists/main/oisdbig-ipv6.txt (Full Oisd Big list for IPv6)
 # https://raw.githubusercontent.com/jumpsmm7/banIP-IP-blocklists/main/oisdsmall-ipv6.txt (Full Oisd Small list for IPv6)
 https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt (Fullbogons list for IPv6)
-# https://raw.githubusercontent.com/dhqcn/Skynet/main/filter.list (use this link as Skynet seems to encounter error of consolidating blacklist)
+# https://raw.githubusercontent.com/dhqcn/Skynet/main/opnsense.list (use this link as Skynet seems to encounter error of consolidating blacklist)
 # OR this link:
-# https://cdn.jsdelivr.net/gh/dhqcn/Skynet@main/filter.list
+# https://cdn.jsdelivr.net/gh/dhqcn/Skynet@main/opnsense.list
