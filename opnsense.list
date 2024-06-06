@@ -1,0 +1,36 @@
+https://www.binarydefense.com/banlist.txt
+https://lists.blocklist.de/lists/all.txt
+https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_dshield.txt
+https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_drop.txt
+https://raw.githubusercontent.com/dhqcn/ProcessedLists/main/processed_AIP-Alpha7-latest.txt
+# https://cdn.jsdelivr.net/gh/dhqcn/ProcessedLists@main/processed_Talos-IoC-IPs_2024.txt
+https://cdn.jsdelivr.net/gh/dhqcn/ProcessedLists@main/processed_Greynoise_blocklist.txt
+# https://blocklist.greensnow.co/greensnow.txt
+https://sigs.interserver.net/iprbl.txt
+# https://feodotracker.abuse.ch/downloads/ipblocklist.txt
+# https://sslbl.abuse.ch/blacklist/sslipblacklist.txt
+https://www.talosintelligence.com/documents/ip-blacklist
+# https://rules.emergingthreats.net/blockrules/compromised-ips.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/5.txt
+https://myip.ms/files/bots/live_webcrawlers.txt
+https://myip.ms/files/blacklist/csf/latest_blacklist.txt
+https://www.team-cymru.org/Services/Bogons/fullbogons-ipv4.txt
+https://threatview.io/Downloads/IP-High-Confidence-Feed.txt
+https://iplists.firehol.org/files/blocklist_net_ua.ipset
+https://iplists.firehol.org/files/cybercrime.ipset
+https://iplists.firehol.org/files/cleantalk.ipset
+https://iplists.firehol.org/files/firehol_level2.netset
+https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/et_spamhaus.netset
+# https://iplists.firehol.org/files/et_tor.ipset
+https://iplists.firehol.org/files/iblocklist_cidr_report_bogons.netset
+https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+# https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
+# https://iplists.firehol.org/files/bitcoin_nodes.ipset (Bitcoin peer to peer reachable nodes)
+# https://raw.githubusercontent.com/jumpsmm7/banIP-IP-blocklists/main/oisdbig-ipv6.txt (Full Oisd Big list for IPv6)
+# https://raw.githubusercontent.com/jumpsmm7/banIP-IP-blocklists/main/oisdsmall-ipv6.txt (Full Oisd Small list for IPv6)
+https://www.team-cymru.org/Services/Bogons/fullbogons-ipv6.txt (Fullbogons list for IPv6)
+# https://raw.githubusercontent.com/dhqcn/Skynet/main/filter.list (use this link as Skynet seems to encounter error of consolidating blacklist)
+# OR this link:
+# https://cdn.jsdelivr.net/gh/dhqcn/Skynet@main/filter.list
