@@ -25,6 +25,7 @@ https://iplists.firehol.org/files/et_spamhaus.netset
 # https://iplists.firehol.org/files/et_tor.ipset
 https://iplists.firehol.org/files/iblocklist_cidr_report_bogons.netset
 https://iplists.firehol.org/files/dyndns_ponmocup.ipset
+https://iplists.firehol.org/files/iblocklist_cruzit_web_attacks.netset
 # https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
 https://raw.githubusercontent.com/hagezi/dns-blocklists/main/ips/tif.txt
 # https://iplists.firehol.org/files/bitcoin_nodes.ipset (Bitcoin peer to peer reachable nodes)
